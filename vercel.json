@@ -1,0 +1,6 @@
+{
+    "redirects": [
+      { "source": "/me", "destination": "/secret" },
+      { "source": "/home", "destination": "/", "permanent": false }
+    ]
+  }
